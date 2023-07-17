@@ -300,7 +300,8 @@
  <br>
  
  <div align="center">
-  내용입력
+  ![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/b73b5b59-0ae4-48cf-9c61-5052fe82a5fd)
+
  </div>
  
  </div>
