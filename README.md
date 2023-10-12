@@ -53,7 +53,7 @@
  <br>
 
  <div align="center">
-<img width="80%" src="">
+<img src="">
 1. 인재찾기 페이지
 : 원하는 조건을 설정하여 이력서를 검색할 수 있다. 
 
@@ -82,8 +82,8 @@
 </div>
  
  <br>
- <img width="80%" src="![Uploading 게시글작성.gif…]()
-">
+
+ <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/448b7318-d70f-4a24-a335-48c526f9a299">
  <div align="center">
   게시글 작성
  </div>
