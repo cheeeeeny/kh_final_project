@@ -38,6 +38,75 @@
 
 ## 5️⃣ 주요기능
 <div align="center">
+<img width="200" alt="image" src="https://github.com/NukNim/kh_final_project/assets/114970601/d5926a64-3877-4fd8-8a3f-3ee649ac046e">
+</div>
+  
+
+
+<details>
+<summary><h3>✅ 인재찾기 및 면접제안 </h3></summary>
+<div markdown="1"> 
+ <div align="center">
+<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 인재찾기 및 면접제안안 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div>
+ 
+ <br>
+
+ <div align="center">
+<img width="80%" src="">
+1. 인재찾기 페이지
+: 원하는 조건을 설정하여 이력서를 검색할 수 있다. 
+
+- 이력서 검색전 이력서에 쓰여진 항목에 대하여 학력, 경력을 추가하는 
+  쿼리문을 실행함
+- 실행된 결과를 가지고 검색 가능
+- 검색된 이력서를 바탕으로 면접제안을 보낼 수 있음
+
+2. 면접제안 리스트 페이지
+: 1번 인재찾기 페이지에서 면접제안 보낸 리스트를 출력
+
+- 답변 및 면접등록 현황에 따라 수락대기, 면접등록, 등록완료로 구분
+- 지원자가 수락시 면접등록 버튼활성화 및 면접일정 등록 가능
+- 면접일정 등록시 면접 메일 발송도 같이 이루어짐
+- 면접일정 등록시 등록완료로 변경됨
+ </div>
+ 
+ </div>
+ </details>
+ 
+<details>
+<summary><h3>✅ 기업 게시글 작성 </h3></summary>
+<div markdown="1"> 
+ <div align="center">
+<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 게시글작성 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div>
+ 
+ <br>
+ <img width="80%" src="![Uploading 게시글작성.gif…]()
+">
+ <div align="center">
+  게시글 작성
+ </div>
+ 
+ </div>
+ </details>
+ 
+ <details>
+<summary><h3>✅ 면접일정 보기 </h3></summary>
+<div markdown="1"> 
+ <div align="center">
+<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 소제목입력 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div>
+ 
+ <br>
+ 
+ <div align="center">
+  내용입력
+ </div>
+ 
+ </div>
+ </details>
+<div align="center">
 <img width="230" alt="image" src="https://github.com/NukNim/kh_final_project/assets/114970601/10918d26-170c-42b3-8037-89b7ca2997c3">
 </div>
 
@@ -279,76 +348,6 @@
 <br>
  
   ---
- 
- </div>
- </details>
-
- 
- <div align="center">
-<img width="200" alt="image" src="https://github.com/NukNim/kh_final_project/assets/114970601/d5926a64-3877-4fd8-8a3f-3ee649ac046e">
-</div>
-  
-
-
-<details>
-<summary><h3>✅ 인재찾기 및 면접제안 </h3></summary>
-<div markdown="1"> 
- <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 소제목입력 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
- 
- <br>
- 
- <div align="center">
-<img width="80%" src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/b73b5b59-0ae4-48cf-9c61-5052fe82a5fd">
-1. 인재찾기 페이지
-: 원하는 조건을 설정하여 이력서를 검색할 수 있다. 
-
-- 이력서 검색전 이력서에 쓰여진 항목에 대하여 학력, 경력을 추가하는 
-  쿼리문을 실행함
-- 실행된 결과를 가지고 검색 가능
-- 검색된 이력서를 바탕으로 면접제안을 보낼 수 있음
-
-2. 면접제안 리스트 페이지
-: 1번 인재찾기 페이지에서 면접제안 보낸 리스트를 출력
-
-- 답변 및 면접등록 현황에 따라 수락대기, 면접등록, 등록완료로 구분
-- 지원자가 수락시 면접등록 버튼활성화 및 면접일정 등록 가능
-- 면접일정 등록시 면접 메일 발송도 같이 이루어짐
-- 면접일정 등록시 등록완료로 변경됨
- </div>
- 
- </div>
- </details>
- 
- <details>
-<summary><h3>✅ 기업 게시글 작성 </h3></summary>
-<div markdown="1"> 
- <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 소제목입력 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
- 
- <br>
- 
- <div align="center">
-  내용입력
- </div>
- 
- </div>
- </details>
- 
- <details>
-<summary><h3>✅ 면접일정 보기 </h3></summary>
-<div markdown="1"> 
- <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 소제목입력 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
- 
- <br>
- 
- <div align="center">
-  내용입력
- </div>
  
  </div>
  </details>
