@@ -46,70 +46,135 @@
 <details>
 <summary><h3>✅ 인재찾기 및 면접제안 </h3></summary>
 <div markdown="1"> 
- <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 인재찾기 및 면접제안 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+<div align="center">
+<img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 인재찾기 <img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
 </div> 
-<br>
-<img src="![면접제안](https://github.com/cheeeeeny/kh_final_project/assets/111434047/350a3e44-3afe-47de-91d4-05e8bee12e05)">
-<br>
-<br>
- 1. 인재찾기 페이지
-: 원하는 조건을 설정하여 이력서를 검색할 수 있다.
-- 이력서 검색전 이력서에 쓰여진 항목에 대하여 학력, 경력을 추가하는 쿼리문을 실행함
-<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/8cc1bcf9-61bd-44e1-916b-3ac939687df5)">
-<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/8e4ce016-c7f9-4737-a458-c9870b974694)">
-<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/78b86c37-c1f2-43af-8740-aea6a2606298)">
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/d6f44e3b-6cc9-45ee-85fe-64b85044e1eb">
+<br><br>
+🔈 <b>인재찾기 : 원하는 조건을 설정하여 이력서를 검색할 수 있다.</b>
+<br><br>
+1. 이력서 검색전 이력서에 쓰여진 항목에 대하여 학력, 경력을 추가하는 쿼리문을 실행함
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/8cc1bcf9-61bd-44e1-916b-3ac939687df5">
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/8e4ce016-c7f9-4737-a458-c9870b974694">
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/78b86c37-c1f2-43af-8740-aea6a2606298">
  <br>
-- 실행된 결과를 가지고 검색 (이력서 공개에 동의한 결과만 출력)
-- 검색된 이력서를 바탕으로 면접제안을 보낼 수 있음
+2. 실행된 결과를 가지고 검색 (이력서 공개에 동의한 결과만 출력)
+ <img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/c42c0bec-7014-4d03-a497-a83f7933ec06)
+">
+ <br>
+3. 검색된 이력서를 바탕으로 면접제안을 보낼 수 있음
 <br><br>
 
-2. 면접제안 리스트 페이지
-: 1번 인재찾기 페이지에서 면접제안 보낸 리스트를 출력
+<div align="center">
+<img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 면접제안 <img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div> 
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/bc109673-db7d-46dc-b70d-09b2632e83f0">
+<br><br>
+🔈 <b>면접제안 : 인재찾기 페이지에서 면접제안 보낸 리스트를 출력</b>
+<br><br>
+1. 답변 및 면접등록 현황에 따라 수락대기, 면접등록, 등록완료로 구분
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/50b03251-41fe-41bd-b123-dbc68826f7d0">
 <br>
-- 답변 및 면접등록 현황에 따라 수락대기, 면접등록, 등록완료로 구분
-<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/50b03251-41fe-41bd-b123-dbc68826f7d0)">
+2. 지원자가 수락시 면접등록 버튼활성화 및 면접일정 등록 가능
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/2970b8f7-8498-4b84-8682-db5970a5dfb4">
 <br>
-- 지원자가 수락시 면접등록 버튼활성화 및 면접일정 등록 가능
-<img src=" ![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/2970b8f7-8498-4b84-8682-db5970a5dfb4)">
+3. 면접일정 등록시 면접 메일 발송도 같이 이루어짐
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/af09d6fe-0878-4a8d-af57-9b620bec8670">
 <br>
-- 면접일정 등록시 면접 메일 발송도 같이 이루어짐
-<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/af09d6fe-0878-4a8d-af57-9b620bec8670)">
-<br>
-- 면접일정 등록시 등록완료로 변경됨
+4. 면접일정 등록시 등록완료로 변경됨
  </div>
  </details>
  
 <details>
 <summary><h3>✅ 기업 게시글 작성 </h3></summary>
 <div markdown="1"> 
- <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 게시글작성 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+<div align="center">
+<img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 게시판 <img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
 </div>
- 
- <br>
+ <br><br>
+🔈 <b>회사 소개 및 뉴스레터 : 인재찾기 페이지에서 면접제안 보낸 리스트를 출력</b>
+<br><br>
+1. 게시판 작성
+<br> <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/70c704db-02e3-4f77-a9e5-efe4d71b1b37">
+<br> 뉴스레터 작성시 링크값의 제목을 추출 <Br>
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/99c10c50-8258-467e-83d3-ae1fb5be123e">
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/101208ca-531b-4327-8023-dbe3133af529">
+<Br>
+2. 게시판 보기
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/3ec1e837-7742-4cd2-b52a-9517000c57f0">
+<Br>
+3. 게시판 수정/삭제
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/5cd0115c-9529-4d55-954b-f749fbd8dde2">
+<Br>
 
- <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/448b7318-d70f-4a24-a335-48c526f9a299">
- <div align="center">
-  게시글 작성
- </div>
- 
  </div>
  </details>
- 
- <details>
-<summary><h3>✅ 면접일정 보기 </h3></summary>
+
+<details>
+<summary><h3>✅ 면접일정 </h3></summary>
 <div markdown="1"> 
- <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 소제목입력 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
+<div align="center">
+<img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 면접일정 <img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div> 
+
+<br><br>
+🔈 <b>면접일정 : 등록된 일정을 조회, 삭제할 수 있고 새로운 일정을 등록할 수 있다.</b>
+<br><br>
+1. 면접 일정 목록
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/0ce15e2b-a3b7-46d7-8aeb-49b4a84fedb5">
+<Br>
+2. 면접 일정 추가
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/acb1c4a9-cba5-46cb-b4dc-86416862a6ad">
+<Br>
+3. 면접 일정 삭제
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/714607ab-2f24-4993-bc76-8cd36a595e13">
+<Br><Br>
  
- <br>
- 
- <div align="center">
-  내용입력
+
  </div>
- 
+ </details>
+
+
+<details>
+<summary><h3>✅ 회원정보 </h3></summary>
+<div markdown="1"> 
+<div align="center">
+<img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 회원정보 <img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div> 
+<br><br>
+🔈 <b>회원정보 : 기존 회원정보를 가져오고 수정할 수 있다.</b>
+<br><br>
+1. 기존 회원정보 조회
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/a1afe751-18d3-4cb3-b121-fb69c5c9a554">
+<br>
+2. 회원정보 변경
+ <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/84a2447c-df5b-4de0-b778-2803df006851">
+<br>
+3. 새로운 주소값을 입력하면 미리 지도 값 보여줌
+ <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/d1252062-b5b8-4c9c-8589-5478f3e4ac38">
+<br>
+4. 새로운 사진파일을 등록하면 썸네일 제공
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/4c9c6003-e989-4ffa-9c6b-159714317d90">
+<br><Br>
+ <div align="center">
+<img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 비밀번호 및 탈퇴 <img width="350" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div> 
+<br><br>
+🔈 <b>비밀번호 : 비밀번호 확인후, 비밀번호 변경과 회원탈퇴를 할 수 있다.</b>
+<br><br>
+1. 비밀번호 확인
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/e621cea9-912f-4cae-82a5-ce9623f1691d">
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/84fc39da-48de-4f0d-b242-09cf950ac699">
+
+<br>
+2. 비밀번호 변경
+ <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/a8652835-27e2-4f9f-931e-87c8f5ddfb08">
+ <img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/978fc7c1-8cd8-499a-8667-f997b43c2201">
+
+<br>
+3. 회원탈퇴
+<img src="https://github.com/cheeeeeny/kh_final_project/assets/111434047/2961fcbc-bc40-4471-a1f0-e325a2fbe249">
+<br>
  </div>
  </details>
 <div align="center">
