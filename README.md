@@ -47,30 +47,36 @@
 <summary><h3>✅ 인재찾기 및 면접제안 </h3></summary>
 <div markdown="1"> 
  <div align="center">
-<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 인재찾기 및 면접제안안 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
-</div>
- 
+<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 인재찾기 및 면접제안 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div> 
+<br>
+<img src="![면접제안](https://github.com/cheeeeeny/kh_final_project/assets/111434047/350a3e44-3afe-47de-91d4-05e8bee12e05)">
+<br>
+<br>
+ 1. 인재찾기 페이지
+: 원하는 조건을 설정하여 이력서를 검색할 수 있다.
+- 이력서 검색전 이력서에 쓰여진 항목에 대하여 학력, 경력을 추가하는 쿼리문을 실행함
+<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/8cc1bcf9-61bd-44e1-916b-3ac939687df5)">
+<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/8e4ce016-c7f9-4737-a458-c9870b974694)">
+<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/78b86c37-c1f2-43af-8740-aea6a2606298)">
  <br>
-
- <div align="center">
-<img src="">
-1. 인재찾기 페이지
-: 원하는 조건을 설정하여 이력서를 검색할 수 있다. 
-
-- 이력서 검색전 이력서에 쓰여진 항목에 대하여 학력, 경력을 추가하는 
-  쿼리문을 실행함
-- 실행된 결과를 가지고 검색 가능
+- 실행된 결과를 가지고 검색 (이력서 공개에 동의한 결과만 출력)
 - 검색된 이력서를 바탕으로 면접제안을 보낼 수 있음
+<br><br>
 
 2. 면접제안 리스트 페이지
 : 1번 인재찾기 페이지에서 면접제안 보낸 리스트를 출력
-
+<br>
 - 답변 및 면접등록 현황에 따라 수락대기, 면접등록, 등록완료로 구분
+<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/50b03251-41fe-41bd-b123-dbc68826f7d0)">
+<br>
 - 지원자가 수락시 면접등록 버튼활성화 및 면접일정 등록 가능
+<img src=" ![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/2970b8f7-8498-4b84-8682-db5970a5dfb4)">
+<br>
 - 면접일정 등록시 면접 메일 발송도 같이 이루어짐
+<img src="![image](https://github.com/cheeeeeny/kh_final_project/assets/111434047/af09d6fe-0878-4a8d-af57-9b620bec8670)">
+<br>
 - 면접일정 등록시 등록완료로 변경됨
- </div>
- 
  </div>
  </details>
  
