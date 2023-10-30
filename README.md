@@ -1,3 +1,7 @@
+
+🙂 개인포트폴리오 바로보기 👉👉
+[포트폴리오_전찬희.pdf](https://github.com/cheeeeeny/kh_final_project/files/13203096/_.pdf)
+
 # 파이널 프로젝트 : JOB-A 구인구직 사이트:handshake:
 
 ## Contents:card_index_dividers:
